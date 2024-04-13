@@ -44,3 +44,7 @@ main .paragraph-photos p {
     font-size: 12px;
     margin-top: 0px;
 }
+
+main .testo {
+    background-color: yellow;
+}
