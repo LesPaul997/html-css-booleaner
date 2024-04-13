@@ -4,11 +4,39 @@ body{
     margin-left: 0px;
 }
 
+/*Font*/
+.pt-serif-regular {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .pt-serif-bold {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .pt-serif-regular-italic {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .pt-serif-bold-italic {
+    font-family: "PT Serif", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+
+
 /*sezione header*/
 header {
     background-color: #9cd6f4;
     width: 1920px;
     height: 130px;
+    background-image: url(../img/pattern.png);
     
     
 }
@@ -22,6 +50,7 @@ header .logo {
     padding-top: 40px;
     
 }
+
 
 /*main*/
 main {
@@ -74,4 +103,7 @@ footer p {
     background-color: #313a6b;
     text-align: center;
     color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-block-end: 0px;
 }
