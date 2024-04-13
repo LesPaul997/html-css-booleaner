@@ -49,14 +49,21 @@ main .testo {
     background-color: yellow;
 }
 
+table {
+    width: 100%;
+}
+
 main .thead {
     background-color: #7fa6fb;
+    text-align: left;
 }
 
 .tbody1 {
     background-color: #dfe5f2;
+    width: 200px;
 }
 
 .tbody2 {
     background-color: white;
+    width: 200px;
 }
