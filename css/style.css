@@ -1,0 +1,25 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+header {
+    background-color: #9cd6f4;
+    width: 1920px;
+    height: 130px;
+    
+    
+}
+
+
+header .logo {
+    width: 250px;
+    height: 50px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 40px;
+    
+}
+
+
