@@ -4,6 +4,11 @@ body{
     margin-left: 0px;
 }
 
+ul{
+    padding-inline-start: 0;
+    list-style-position: inside;
+}
+
 /*Font*/
 .pt-serif-regular {
     font-family: "PT Serif", serif;
@@ -89,12 +94,12 @@ main .thead {
 
 .tbody1 {
     background-color: #dfe5f2;
-    width: 200px;
+    /* width: 200px; */
 }
 
 .tbody2 {
     background-color: white;
-    width: 200px;
+    /* width: 200px; */
 }
 
 /*footer*/
