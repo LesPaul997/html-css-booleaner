@@ -48,3 +48,15 @@ main .paragraph-photos p {
 main .testo {
     background-color: yellow;
 }
+
+main .thead {
+    background-color: #7fa6fb;
+}
+
+.tbody1 {
+    background-color: #dfe5f2;
+}
+
+.tbody2 {
+    background-color: white;
+}
