@@ -1,9 +1,10 @@
+/* sezione body*/
 body{
     margin-top: 0px;
     margin-left: 0px;
 }
 
-
+/*sezione header*/
 header {
     background-color: #9cd6f4;
     width: 1920px;
@@ -12,7 +13,7 @@ header {
     
 }
 
-
+/*logo*/
 header .logo {
     width: 250px;
     height: 50px;
@@ -22,21 +23,19 @@ header .logo {
     
 }
 
-
+/*main*/
 main {
     padding-left: 70px;
 }
 
 main section h1 {
     margin-bottom: 0px;
-
 }
 
 main .intestazione p {
     margin-top: 0px;
     font-size: 12px;
     color: grey;
-
 }
 
 main .paragraph-photos p {
@@ -49,6 +48,7 @@ main .testo {
     background-color: yellow;
 }
 
+/*tabella*/
 table {
     width: 100%;
 }
@@ -66,4 +66,12 @@ main .thead {
 .tbody2 {
     background-color: white;
     width: 200px;
+}
+
+/*footer*/
+footer p {
+    height: 20px;
+    background-color: #313a6b;
+    text-align: center;
+    color: white;
 }
